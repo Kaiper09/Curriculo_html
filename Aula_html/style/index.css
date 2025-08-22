@@ -1,0 +1,297 @@
+#containerPai {
+    display: flex;
+}
+
+#barraEsquerda {
+    background-color: rgb(107, 107, 108);
+    height: 1500px;
+    width: 2%;
+}
+
+#perfil {
+   background-color: rgb(222, 221, 221);
+    height: 1500px;
+    width: 18%;
+}
+
+#infoPeossal {
+    background-color: rgb(224, 224, 224);
+    height: 1500px;
+    width: 45%;
+}
+
+#foto {
+    height: 480px;
+    width: 100%;
+    background-color: rgb(188, 187, 187);
+}
+
+.fotoCurriculo {
+    height: 250px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 45px;
+    border-radius: 1000px;
+
+}
+
+.textoFoto {
+    font-family: "Schibsted Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 31px;
+    text-align: center;
+}
+
+#textoFoto2 {
+    font-family: "Schibsted Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 27px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+
+#linha{
+    width: 85%;
+    height: 1px;
+    margin-top: -40px;
+    background-color: azure;
+     
+}
+
+.icones{
+    width: 90%;
+    margin-left: 35px;
+    margin-top: 20px;
+    
+
+}
+
+.icones2{
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+
+}
+
+.textoIcons{
+   font-family: "Schibsted Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:normal;
+    font-style:normal;
+    font-size: 20px;
+    margin-top: -35px;
+    margin-left: 45px;
+    
+}
+
+.idiomas_Habilidades{
+    height: 200px;
+    width: 80%;
+    margin-top: 3em;
+    margin-left: 2em;
+    display: flex;
+    
+    border-radius: 50px;
+}
+
+.icones_habili{
+    width: 40px;
+    height: 40px;
+    margin-left: 2em;
+    margin-top: 8px;
+}
+
+.textoGrande{
+    font-family: "Schibsted Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:normal;
+    font-style: large;
+    font-size: 30px;
+    margin-top: 8px;
+    margin-left: 10px;
+    
+}
+
+.textosEmBaixo{
+    height: 6   0%;
+    width: 100%;
+    margin-top: 4em;
+    margin-left: -74%;
+    
+    text-align: left;
+}
+
+.textosIdiomas{     
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  margin-top: -10px;
+  height: 20px;
+}
+
+.texto_habilidades{
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 22px;
+  margin-top: 5px;
+  height: 20px;
+  margin-left: -5px;
+
+}
+
+.estrelinhas{
+    width: 25px;
+    height: 25px;
+    margin-left: 8em;
+    margin-top: -7px;
+    display: flex;
+    
+}
+#linha2 {
+    width: 85%;
+    height: 1px;
+    margin-top: 10%;
+    background-color: azure;
+     
+}
+.ball1{
+    width: 2vw;
+    height: 2vw;
+}
+
+.ball2{
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+    margin-left: 5px;
+    color: gray;
+}
+
+.bolas{
+    display: flex;
+    
+    width: 100%;
+    margin-top: 5px;
+    margin-left: -15%;
+}
+
+.bolas2{
+    display: flex;
+    width: 100%;
+    margin-top: 5px;
+    height: 50px;  
+}
+
+
+
+.textoGrande_pessoal1{
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    margin-top: 10px;
+    
+}
+
+.textoGrande_pessoal2{
+    width: 80%;
+    height: 40%;
+    margin-left: 10%;
+    margin-top: 39px;
+}
+
+.textoGrande_pessoal3{
+    width: 80%;
+    height: 15%;
+    margin-left: 10%;
+    margin-top: 0px;
+
+    
+}
+
+.divTextos{
+    width: 100%;
+    height: 40%;
+   
+    margin-top: -20px;
+    display: flex;
+    
+}
+
+.icone_direito{
+    width: 70px;
+    height: 70px;
+    margin-left: 2em;
+    margin-top: 8px;
+}
+
+.textoLado{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  margin-left: 0.5em;
+  font-size: 40px;
+}
+
+
+.div_direita{
+    display: flex;
+    align-items: center;
+}
+
+.pontinhos{
+    width: 3em;
+    height: 3em; 
+}
+
+.texto_pessoal{
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  margin-top: 10px;
+  height: 20px;
+  margin-left: -5px;
+}
+
+.textoLadoPonto{
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.bolas3{
+    width: 100%;
+    height: 40px;
+    
+    display: flex;
+}
+
+.divTextos2{
+    width: 100%;
+    height: 20%;
+    
+    display: flex;
+    margin-left: 3em;
+}
+
+.textos_pessoais{
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  margin-top: 1px;
+}
